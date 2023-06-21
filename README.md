@@ -43,25 +43,21 @@ Here are some facts about me to get you started:
 # A little more about me <img height=60px src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
 
 <div align="center">
- <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=krutika-ladani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=krutika-ladani&theme=chartreuse-dark" alt="mystreak"/>
+ <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs?username=krutika-ladani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=krutika-ladani&theme=chartreuse-dark" alt="mystreak"/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=krutika-ladani&count_private=true&show_icons=true&include_all_commits=true">
- <img width=500px src="https://github-profile-trophy.vercel.app/?username=krutika-ladani&theme=chartreuse-dark"/> 
+ <img height=155px src="https://github-readme-stats.vercel.app/api?username=krutika-ladani&count_private=true&show_icons=true&include_all_commits=true">
+ <img height=155px src="https://github-profile-trophy.vercel.app/?username=krutika-ladani&theme=chartreuse-dark"/> 
  
 </div>
 <hr></hr>
 
 <div align="center">
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
- <!--<img height=150px src="https://github.com/krutika-ladani/krutika-ladani/blob/master/coderman.gif">-->
-</div> 
-
-<hr></hr>
-
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> 
+ 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
