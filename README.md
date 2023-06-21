@@ -18,6 +18,7 @@ Here are some facts about me to get you started:
   [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladanikrutika@gmail.com)](mailto:ladanikrutika@gmail.com)
 - 😄 Pronouns: She/her
 - 💥 Superpower: I can turn caffeine to code and bugs to features
+- 🐈 Cat fact: Cats sleep for approximately 70% of their lives
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 <br>
