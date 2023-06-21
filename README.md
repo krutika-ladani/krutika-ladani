@@ -33,7 +33,7 @@ Here are some facts about me to get you started:
  <img height=30px src="https://img.shields.io/badge/-CSS3-008081?style=flat-square&logo=css3">&nbsp;
  <img height=30px src="https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php">&nbsp; 
   
- <img height=30px src="https://img.shields.io/badge/-MySQL-f61491?style=flat-square&logo=mysql">&nbsp;p; 
+ <img height=30px src="https://img.shields.io/badge/-MySQL-f61491?style=flat-square&logo=mysql">&nbsp; 
  <img height=30px src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> &nbsp;
  <img height=30px src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">&nbsp;
  <img height=30px src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=vscode">&nbsp;
