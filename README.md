@@ -20,25 +20,27 @@ Here are some facts about me to get you started:
 - 💥 Superpower: I can turn caffeine to code and bugs to features
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
-
+<br>
  
 # Tools and Technologies <img height=70px src="https://github.com/krutika-ladani/krutika-ladani/blob/master/cat-gray.gif">
 
-![C](https://img.shields.io/badge/-C-0A6522?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-702963?style=flat-square&logo=java) 
-![Python](https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=Python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C2E4A?style=flat-square&logo=javascript) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-008081?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-f61491?style=flat-square&logo=mysql) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=vscode) 
-![Eclipse](https://img.shields.io/badge/-Eclipse-orange?style=flat-square&logo=eclipse) 
-![NetBeans](https://img.shields.io/badge/-NetBeans-brown?style=flat-square&logo=netbeans) 
-
-
+<div align="center" >
+ <img height=30px src="https://img.shields.io/badge/-C-0A6522?style=flat-square&logo=c">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-Java-702963?style=flat-square&logo=java">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=Python">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-JavaScript-1C2E4A?style=flat-square&logo=javascript">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-CSS3-008081?style=flat-square&logo=css3">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php">&nbsp; 
+  
+ <img height=30px src="https://img.shields.io/badge/-MySQL-f61491?style=flat-square&logo=mysql">&nbsp;p; 
+ <img height=30px src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> &nbsp;
+ <img height=30px src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=vscode">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-Eclipse-orange?style=flat-square&logo=eclipse">&nbsp;
+ <img height=30px src="https://img.shields.io/badge/-NetBeans-brown?style=flat-square&logo=netbeans">&nbsp;
+ </div>
+<br>
 
 # A little more about me <img height=60px src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
 
@@ -51,7 +53,7 @@ Here are some facts about me to get you started:
 </div>
 <hr></hr>
 
-<br><br>
+<br>
 
 <div align="center">
 <img width=300px src="https://readme-jokes.vercel.app/api" alt="README Jokes">   <br>
