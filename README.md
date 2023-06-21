@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you wish to know about me
 - 📫 How to reach me: http://www.linkedin.com/in/krutika-ladani
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I can turn caffeine to code and bugs to features
+- ⚡ Fun fact: I can turn caffeine to code and bugs to features  
 
 
-[![krutika-ladani's GitHub | Languages Over Time](https://stats.quine.sh/krutika-ladani/languages-over-time?theme=dark)](https://quine.sh) 
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krutika-ladani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ <img src="https://github-profile-trophy.vercel.app/?username=krutika-ladani&theme=juicyfresh&no-bg=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=krutika-ladani&theme=tokyonight" alt="mystreak"/>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+   
