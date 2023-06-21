@@ -5,7 +5,7 @@
 -->
 
 Here are some facts about me to get you started:
- <img height=200px align="right" src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966">
+ 
 
 
 - 🔭 I’m currently working on BookBuddy project
@@ -39,6 +39,11 @@ Here are some facts about me to get you started:
 # A little more about me <img height=60px src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krutika-ladani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krutika-ladani&theme=tokyonight" alt="mystreak"/>
- <img src="https://github-profile-trophy.vercel.app/?username=krutika-ladani&theme=juicyfresh&no-bg=true" />  
+ <img src="https://github-profile-trophy.vercel.app/?username=krutika-ladani&theme=juicyfresh&no-bg=true" /> 
+
+<div align="center">
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+ <img height=150px src="https://github.com/krutika-ladani/krutika-ladani/blob/master/coderman.gif">
+</div>
+
    
