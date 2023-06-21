@@ -14,8 +14,8 @@ Here are some facts about me to get you started:
 - 	:technologist: I’m currently contributing to open source projects
 - 👯 I look forward to collaborating on any projects
 - 💬 Ask me about anything
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-krutikaladani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krutika-ladani/)](https://www.linkedin.com/in/krutika-ladani/)
-  [![Gmail Badge](https://img.shields.io/badge/-ladanikrutika@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladanikrutika@gmail.com)](mailto:ladanikrutika@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krutika-ladani/)](https://www.linkedin.com/in/krutika-ladani/)
+  [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladanikrutika@gmail.com)](mailto:ladanikrutika@gmail.com)
 - 😄 Pronouns: She/her
 - 💥 Superpower: I can turn caffeine to code and bugs to features
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
