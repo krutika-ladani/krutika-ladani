@@ -3,7 +3,7 @@
 <!--
 **krutika-ladani/krutika-ladani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="260" height="310" />
 
 Here are some facts about me to get you started:
  
