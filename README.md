@@ -11,18 +11,18 @@ Here are some facts about me to get you started:
 
 - 🔭 I’m currently working on BookBuddy project
 - 🌱 I’m currently learning Web Development
-- 💥 I’m currently contributing to open source projects
+- 	:technologist: I’m currently contributing to open source projects
 - 👯 I look forward to collaborating on any projects
-- 💬 Ask me about anything you wish to know about me
+- 💬 Ask me about anything
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-krutikaladani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krutika-ladani/)](https://www.linkedin.com/in/krutika-ladani/)
   [![Gmail Badge](https://img.shields.io/badge/-ladanikrutika@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladanikrutika@gmail.com)](mailto:ladanikrutika@gmail.com)
 - 😄 Pronouns: She/her
-- I can turn caffeine to code and bugs to features
+- 💥 Superpower: I can turn caffeine to code and bugs to features
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 
  
-# Tools and Technologies <img height=50px src="https://github.com/krutika-ladani/krutika-ladani/blob/master/exploding-head-use-computer.gif">
+# Tools and Technologies <img height=70px src="https://github.com/krutika-ladani/krutika-ladani/blob/master/cat-gray.gif">
 
 ![C](https://img.shields.io/badge/-C-0A6522?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-702963?style=flat-square&logo=java) 
