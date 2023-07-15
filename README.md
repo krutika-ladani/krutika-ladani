@@ -3,11 +3,12 @@
 <!--
 **krutika-ladani/krutika-ladani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="260" height="310" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="220" height="290" />
 
 Here are some facts about me to get you started:
  
 
+<p style="min-width:200px">
 
 - 🔭 I’m currently working on BookBuddy project
 - 🌱 I’m currently learning Web Development
