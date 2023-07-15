@@ -47,8 +47,9 @@ Here are some facts about me to get you started:
 # A little more about me <img height=60px src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
 
 <div align="center">
- <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs?username=krutika-ladani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=krutika-ladani&theme=chartreuse-dark" alt="mystreak"/>
-
+ <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs?username=krutika-ladani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ <img height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=krutika-ladani&theme=chartreuse-dark" alt="mystreak"/>
+ <br>
  <img height=155px src="https://github-readme-stats.vercel.app/api?username=krutika-ladani&count_private=true&show_icons=true&include_all_commits=true">
  <img height=155px src="https://github-profile-trophy.vercel.app/?username=krutika-ladani&theme=chartreuse-dark"/> 
  
