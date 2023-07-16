@@ -65,5 +65,4 @@ Here are some facts about me to get you started:
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=krutika-ladni&icon=9&color=1)](https://visitcount.itsvg.in)
 
