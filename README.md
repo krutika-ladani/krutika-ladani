@@ -24,8 +24,7 @@ Here are some facts about me to get you started:
 
 <br>
  
-# Tools and Technologies 
-<img height=70px alt="cat typing" src="https://github.com/krutika-ladani/krutika-ladani/blob/master/cat-gray.gif">
+# Tools and Technologies <img height=70px alt="cat typing" src="https://github.com/krutika-ladani/krutika-ladani/blob/master/cat-gray.gif">
 
 <div align="center" >
  <img height=30px src="https://img.shields.io/badge/-C-0A6522?style=flat-square&logo=c">&nbsp;
