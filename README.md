@@ -10,10 +10,9 @@ Here are some facts about me to get you started:
 
 <p style="min-width:200px">
 
-- 🔭 I’m currently working on BookBuddy project
-- 🌱 I’m currently learning Web Development
+
 - 	:technologist: I’m currently contributing to open source projects
-- 👯 I look forward to collaborating on any projects
+- 👯 I always look forward to collaborating on any project
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krutika-ladani/)](https://www.linkedin.com/in/krutika-ladani/)
   [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladanikrutika@gmail.com)](mailto:ladanikrutika@gmail.com)
